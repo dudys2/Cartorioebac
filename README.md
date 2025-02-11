@@ -1,2 +1,1 @@
-# Cartorioebac
-Projeto do curso de TI da Ebac
+# Projeto calculadora em pytohm EBAC
